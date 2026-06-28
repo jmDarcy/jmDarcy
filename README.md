@@ -38,7 +38,7 @@ Data mining project for binary passenger-satisfaction classification. It compare
 
 ## Tools And Methods
 
-**Languages and analytics:** Python, R, SQL, MATLAB, Gretl, SAS, VBA, Markdown, LaTeX  
+**Languages and analytics:** Python, R, SQL, MATLAB, SAS, VBA, Markdown, LaTeX, Typst  
 **Python stack:** pandas, NumPy, scikit-learn, statsmodels, lifelines, PySpark, FastAPI  
 **Actuarial and finance:** Prophet, Retirement Studio, Excel/VBA, GARCH, MS-GARCH, VaR, ES, HGB/IFRS  
 **Methods:** GLM, logistic regression, Bayesian modelling, survival analysis, Cox models, AFT models, credit scoring, optimisation, Monte Carlo simulation, stream processing
